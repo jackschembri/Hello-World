@@ -1,2 +1,3 @@
 # Hello-World
-Intro tutorial to GitHub
+
+I have deleted the description from line 2.
